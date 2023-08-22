@@ -1,0 +1,77 @@
+.container-fluid {
+  background-color: rgba(227, 221, 218, 0.741);
+  font-family: 'Roboto', sans-serif;
+}
+
+.circular--square {
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  margin: 15px;
+}
+
+.caja1 {
+  padding: 10px;
+  margin: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.contenedor1 {
+  display: flex;
+  width: 70%;
+  margin: 50px;
+}
+
+.conte1 {
+  width: 70%;
+  text-align: center;
+  padding: 180px;
+}
+
+.contenedor2 {
+  display: flex;
+  width: 70%;
+  margin: 50px;
+}
+
+.conte2 {
+  width: 50%;
+  text-align: center;
+  padding: 30px;
+}
+
+.contenedor3 {
+  display: flex;
+  width: 70%;
+  margin: 50px;
+}
+
+.conte3 {
+  width: 63%;
+  text-align: center;
+  padding: 30px;
+}
+
+.contenedor4 {
+ text-align: center;
+ font-family: 'Raleway', sans-serif;
+}
+
+.desafio {
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  text-align:center;
+}
+
+footer {
+  background-color: rgba(227, 221, 218, 0.741);
+  padding: 15px;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
